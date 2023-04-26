@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/AndreTipolt#gh-dark-mode-only">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreTipolt&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple&bg_color=0d11175c"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreTipolt&langs_count=8&layout=compact&theme=midnight-purple&bg_color=0d11175c"/>
+    
   </a>
 </div>
 
