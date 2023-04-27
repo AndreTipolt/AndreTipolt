@@ -19,7 +19,7 @@
 <div align="center">
   <div style="display: inline_block">
     <a href="[https://skillicons.dev](https://github.com/AndreTipolt)">
-      <img src="https://skillicons.dev/icons?i=ts,nodejs,java,py,html,css,mysql" />
+      <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,py,html,css,git,mysql" />
     </a>
   </div>
   
