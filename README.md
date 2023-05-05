@@ -1,18 +1,18 @@
 ### Olá, Eu sou André Tipolt 👋
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/AndreTipolt#gh-dark-mode-only">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreTipolt&count_private=true&show_icons=true&include_all_commits=true&theme=radical"/>
     
   </a>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/AndreTipolt#gh-light-mode-only">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreTipolt&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreTipolt&langs_count=8&layout=compact&theme=buefy"/>
   </a>
-</div>
+</div> -->
 
 <br/>
 
