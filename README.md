@@ -9,7 +9,7 @@
       <img src="https://skillicons.dev/icons?i=java,spring,ts,express,nestjs,nodejs,py,html,css,git,mysql,mongodb,postgres" />
     </a>
   </div>
- 
+ <br/>
   <div>
     <a href="https://www.linkedin.com/in/andre-tipolt-lopes-65a87b221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:andretipoltlopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
