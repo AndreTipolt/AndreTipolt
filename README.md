@@ -6,7 +6,7 @@
 <div align="center">
   <div style="display: inline_block">
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=java,spring,ts,express,nestjs,nodejs,py,html,css,git,mysql,mongodb,postgres" />
+      <img src="https://skillicons.dev/icons?i=java,spring,ts,express,nestjs,nodejs,py,html,css,js,git,mysql,mongodb,postgres" />
     </a>
   </div>
  <br/>
